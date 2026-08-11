@@ -1,27 +1,180 @@
-# 💫 About Me:
-🌱 I'm currently working on<br>Building AI-powered full-stack applications and turning ideas into real-world projects that solve meaningful problems.<br><br>🤝 I'm looking to collaborate on<br>Open-source projects, innovative web applications, and AI-driven solutions where I can learn and contribute.<br><br>💡 I'm looking for help with<br>Scalable system design, backend architecture, and integrating AI into production-ready applications.<br><br>📚 I'm currently learning<br>Full-stack development, cloud technologies, and how to build intelligent applications using modern AI tools.<br><br>⚡ Fun fact<br>I enjoy transforming ideas into working products and believe the best way to learn is by building something new every day.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=220&section=header&text=Vihang%20Patil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20B.Tech%20CSE&descAlignY=58&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vihangpatil37@gmail.com) 
+<a href="https://github.com/Vihangpatil37">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+SCPR+%E2%80%94+AI-powered+career+guidance+platform;Deterministic+ML+%2B+Multi-LLM+Orchestration;Final-Year+B.Tech+CSE+%40+Parul+University;Currently+preparing+SCPR+for+IEEE+submission" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Vihangpatil37&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Vihangpatil37&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vihangpatil37&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vihangpatil37&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+[![Email](https://img.shields.io/badge/Email-vihangpatil37%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vihangpatil37@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Vihangpatil37-181717?style=for-the-badge&logo=github)](https://github.com/Vihangpatil37)
+![Profile Views](https://komarev.com/ghpvc/?username=Vihangpatil37&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vihangpatil37&limit=5&theme=default&combine_all_yearly_contributions=true)
+<br/>
 
----
-[![](https://komarev.com/ghpvc/?username=Vihangpatil37&icon=10&color=13)](https://visitcount.itsvg.in)
+## ⚡ About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```yaml
+name:         Vihang Patil
+role:         Full-Stack Developer & AI/ML Engineer
+education:    B.Tech CSE, Parul University (PIET) — Class of 2027
+focus:        Multi-LLM orchestration · Deterministic ML pipelines · Recommendation systems
+flagship:     SCPR — Smart Career Path Recommendation System (sole developer, IEEE submission in progress)
+currently:    Deepening system design, agentic AI architecture, and scalable backend engineering
+```
+
+- 🚀 Sole architect and developer of **SCPR**, an AI-powered career guidance platform for Indian secondary-school students
+- 🧠 I care about *engineering* AI systems, not just calling APIs — deterministic pipelines, explainability, and multi-provider fallback are core to how I build
+- 🛠️ Full-stack across React/Next.js, Node.js/NestJS, MongoDB, and Python ML tooling
+- 📄 Actively writing SCPR up as a research paper for **IEEE submission**
+- 📫 **vihangpatil37@gmail.com**
+
+<br/>
+
+## 🧠 Flagship Project — SCPR
+
+<div align="center">
+
+### Smart Career Path Recommendation System
+
+*An explainable, three-stage AI pipeline guiding Indian Class 10 & 12 students to the right career path*
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**Stage 1**
+### 🔍 Eligibility Engine
+Deterministic rule-based filtering — no black box, fully auditable
+
+</td>
+<td align="center" width="33%">
+
+**Stage 2**
+### ⚖️ Trait Matching Engine
+Scores candidates against 130+ career paths using weighted trait analysis
+
+</td>
+<td align="center" width="33%">
+
+**Stage 3**
+### 🤖 LLM Re-ranking
+Multi-provider LLM layer (Gemini · Groq · Mistral · GLM) refines final ranking with reasoning
+
+</td>
+</tr>
+</table>
+
+**The engineering story:** an earlier Random Forest + XGBoost pipeline collapsed onto a handful of dominant outputs due to class imbalance. Rather than patching the model, I redesigned the system as a deterministic eligibility/trait engine feeding into LLM re-ranking — fixing the collapse while making every recommendation explainable and auditable, a hard requirement when the output shapes a real student's academic future.
+
+| | |
+|---|---|
+| 🎯 **Coverage** | 130+ career paths, mapped to the Indian education system |
+| 📝 **Input** | Dynamic MCQ-based aptitude & trait assessment |
+| 💬 **Interface** | Conversational AI career counselor |
+| 🔀 **Resilience** | Multi-LLM provider fallback — no single point of failure |
+| 📊 **Explainability** | SHAP-based feature attribution at the ML stage |
+
+**Stack:** `React` `NestJS` `MongoDB Atlas` `Python` `Scikit-learn` `XGBoost` `SHAP` `Gemini` `Groq` `Mistral` `GLM`
+
+<br/>
+
+## 🚀 Other Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+|---|---|---|
+| 🏎️ **APEX F1** — Engineering Speed | F1-inspired web experience built around high-performance UI and motion design | `React` `Vite` `Tailwind` `Framer Motion` |
+| 🏠 **VastuMulya** — Property Price Estimator | ML-based price estimation for the Indian real-estate market | `React` `Python` `XGBoost` `Node.js` `MongoDB` |
+
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+
+**Data & ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,python,pytorch" />
+
+**Tools & Infra**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,bash,postman,figma" />
+
+</div>
+
+**AI/ML toolkit:** Scikit-learn · XGBoost · Pandas · SHAP (Explainable AI) · Multi-LLM orchestration (Gemini, Groq, Mistral, GLM) · Agentic AI design
+
+<br/>
+
+## 📈 Learning Trajectory
+
+```mermaid
+graph LR
+    A[Full-Stack Dev] --> B[Backend Engineering]
+    B --> C[System Design]
+    C --> D[ML Pipelines]
+    D --> E[LLM Orchestration]
+    E --> F[Agentic AI Systems]
+    style A fill:#0f172a,stroke:#38BDF8,color:#fff
+    style B fill:#0f172a,stroke:#38BDF8,color:#fff
+    style C fill:#0f172a,stroke:#38BDF8,color:#fff
+    style D fill:#0f172a,stroke:#38BDF8,color:#fff
+    style E fill:#0f172a,stroke:#38BDF8,color:#fff
+    style F fill:#1e3a8a,stroke:#38BDF8,color:#fff
+```
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vihangpatil37&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vihangpatil37&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vihangpatil37&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+<img src="https://streak-stats.demolab.com?user=Vihangpatil37&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vihangpatil37&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+
+</div>
+
+<br/>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Vihangpatil37"><img src="https://img.shields.io/badge/GitHub-Vihangpatil37-black?style=for-the-badge&logo=github"/></a>
+<a href="mailto:vihangpatil37@gmail.com"><img src="https://img.shields.io/badge/Email-vihangpatil37%40gmail.com-red?style=for-the-badge&logo=gmail"/></a>
+
+<br/><br/>
+
+### 💭 Build. Break. Learn. Improve. Repeat.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=100&section=footer" width="100%"/>
+
+</div>
