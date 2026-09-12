@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=220&section=header&text=Vihang%20Patil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20B.Tech%20CSE&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=240&section=header&text=Vihang%20Patil&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20B.Tech%20CSE&descAlignY=56&descSize=19" width="100%"/>
 
 <a href="https://github.com/Vihangpatil37">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+SCPR+%E2%80%94+AI-powered+career+guidance+platform;Deterministic+ML+%2B+Multi-LLM+Orchestration;Final-Year+B.Tech+CSE+%40+Parul+University;Currently+preparing+SCPR+for+IEEE+submission" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&width=760&height=90&lines=Building+a+real-time+hospital+OPD+queue+%26+registration+system;Socket.IO+%2B+Flutter+%2B+Next.js+%2B+Express;Final-Year+B.Tech+CSE+%40+Parul+University+(PIET);Also+shipping+SCPR+%E2%80%94+an+AI+career+guidance+platform" alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-vihangpatil37%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vihangpatil37@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Vihangpatil37-181717?style=for-the-badge&logo=github)](https://github.com/Vihangpatil37)
+[![Portfolio](https://img.shields.io/badge/Portfolio-protfoliov.vercel.app-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://protfoliov.vercel.app)
 ![Profile Views](https://komarev.com/ghpvc/?username=Vihangpatil37&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 </div>
@@ -22,26 +23,29 @@
 name:         Vihang Patil
 role:         Full-Stack Developer & AI/ML Engineer
 education:    B.Tech CSE, Parul University (PIET) — Class of 2027
-focus:        Multi-LLM orchestration · Deterministic ML pipelines · Recommendation systems
-flagship:     SCPR — Smart Career Path Recommendation System (sole developer, IEEE submission in progress)
-currently:    Deepening system design, agentic AI architecture, and scalable backend engineering
+focus:        Real-time systems · Multi-LLM orchestration · Explainable ML · Recommendation systems
+flagship:     NextGen Hospital OPD Queue & Registration System — a real-time patient/queue platform for Shri Satya Sai Gramya Arogya Mandir
+philosophy:   Engineer AI systems, don't just call APIs — auditability and explainability are non-negotiable
+currently:    Deepening real-time system design, agentic AI architecture, and scalable backend engineering
 ```
 
-- 🚀 Sole architect and developer of **SCPR**, an AI-powered career guidance platform for Indian secondary-school students
-- 🧠 I care about *engineering* AI systems, not just calling APIs — deterministic pipelines, explainability, and multi-provider fallback are core to how I build
-- 🛠️ Full-stack across React/Next.js, Node.js/NestJS, MongoDB, and Python ML tooling
-- 📄 Actively writing SCPR up as a research paper for **IEEE submission**
-- 📫 **vihangpatil37@gmail.com**
+- 🏥 Building the **NextGen Hospital OPD Queue & Registration System** — a real-time patient registration and queue management platform for **Shri Satya Sai Gramya Arogya Mandir**
+- ⚡ Patients register via a native Flutter app, receive a live queue token, and hospital staff manage the queue from a real-time web dashboard — all synchronized via Socket.IO, no polling
+- 🚀 Also the sole architect and developer of **[SCPR](#-other-projects)**, an AI-powered career guidance platform for Indian secondary-school students
+- 🧠 I care about *engineering* systems properly — real-time sync, role-based auth, explainability, and multi-provider fallback are core to how I build
+- 🛠️ Full-stack across Next.js/React, Node.js/Express/NestJS, Flutter, MongoDB, and Python ML tooling
+- 🌐 Portfolio: **[protfoliov.vercel.app](https://protfoliov.vercel.app)** — "Liquid Glass Cosmos" UI, built with Next.js 15 + TypeScript + Framer Motion
+- 📫 Reach me at **vihangpatil37@gmail.com**
 
 <br/>
 
-## 🧠 Flagship Project — SCPR
+## 🏥 Flagship Project — NextGen Hospital OPD Queue & Registration System
 
 <div align="center">
 
-### Smart Career Path Recommendation System
+### [Real-time patient registration & OPD queue management](https://github.com/Vihangpatil37/NGO)
 
-*An explainable, three-stage AI pipeline guiding Indian Class 10 & 12 students to the right career path*
+*Built for Shri Satya Sai Gramya Arogya Mandir — patients register on mobile, staff run the queue from a live dashboard*
 
 </div>
 
@@ -50,38 +54,46 @@ currently:    Deepening system design, agentic AI architecture, and scalable bac
 <td align="center" width="33%">
 
 **Stage 1**
-### 🔍 Eligibility Engine
-Deterministic rule-based filtering — no black box, fully auditable
+### 📱 Patient Registration
+Flutter app (Android/iOS) — new or returning patients register in Gujarati, Hindi, or English and receive an auto-incrementing queue token
 
 </td>
 <td align="center" width="33%">
 
 **Stage 2**
-### ⚖️ Trait Matching Engine
-Scores candidates against 130+ career paths using weighted trait analysis
+### ⚡ Real-Time Queue Sync
+Socket.IO broadcasts every registration, call, skip, and completion live — patient and staff screens update instantly, with no polling
 
 </td>
 <td align="center" width="33%">
 
 **Stage 3**
-### 🤖 LLM Re-ranking
-Multi-provider LLM layer (Gemini · Groq · Mistral · GLM) refines final ranking with reasoning
+### 📋 Staff Operations Dashboard
+Next.js admin portal — staff Call Next / Skip / Complete patients, manage doctors, search records, and view live stats
 
 </td>
 </tr>
 </table>
 
-**The engineering story:** an earlier Random Forest + XGBoost pipeline collapsed onto a handful of dominant outputs due to class imbalance. Rather than patching the model, I redesigned the system as a deterministic eligibility/trait engine feeding into LLM re-ranking — fixing the collapse while making every recommendation explainable and auditable, a hard requirement when the output shapes a real student's academic future.
+**How it works:** a patient opens the Flutter app, picks a language, and registers as new or returning — Socket.IO instantly pushes that registration and token to the admin dashboard. Staff work the live queue, calling, skipping, or completing patients, and the patient's app is notified the moment their token is called. Doctors log in through the same patient app with phone + PIN to set their daily availability, which shows up on the admin dashboard in real time.
 
 | | |
 |---|---|
-| 🎯 **Coverage** | 130+ career paths, mapped to the Indian education system |
-| 📝 **Input** | Dynamic MCQ-based aptitude & trait assessment |
-| 💬 **Interface** | Conversational AI career counselor |
-| 🔀 **Resilience** | Multi-LLM provider fallback — no single point of failure |
-| 📊 **Explainability** | SHAP-based feature attribution at the ML stage |
+| ⚡ **Real-time sync** | Socket.IO across patient app and admin dashboard — no polling, no refreshing |
+| 📱 **Patient app** | Flutter (Android/iOS), Gujarati/Hindi/English localization, live token tracking |
+| 📋 **Admin dashboard** | Next.js 15 + React 19 — queue control, patient search, doctor management, stats |
+| 👨‍⚕️ **Doctor module** | Phone + PIN login, daily availability toggling, visible to staff in real time |
+| 🔒 **Auth** | Three separate JWT flows — Staff (PIN, 8h), Patient (session, 24h), Doctor (phone + PIN + bcrypt, 24h) |
+| 🕒 **Registration windows** | Configurable time-restricted windows (e.g. Sat 06:00 → Sun 06:00 IST) or 24/7 mode |
+| 🔢 **Queue tokens** | Auto-incrementing, atomic counter per registration window |
+| 📇 **Patient directory** | Full CRUD, searchable by name, phone, village, or case number |
+| 📊 **Validation & logging** | Zod schema validation at the API layer, structured logging via Pino |
 
-**Stack:** `React` `NestJS` `MongoDB Atlas` `Python` `Scikit-learn` `XGBoost` `SHAP` `Gemini` `Groq` `Mistral` `GLM`
+**Architecture:** the Flutter app and Next.js dashboard both talk to an Express 5 + TypeScript API over REST, with a parallel Socket.IO server handling real-time events; node-cron drives scheduled jobs; everything persists to MongoDB via Mongoose.
+
+**Stack:** `Node.js` `Express 5` `TypeScript` `MongoDB` `Mongoose` `Socket.IO` `Next.js 15` `React 19` `Tailwind CSS` `Flutter` `Dart` `JWT` `bcrypt` `Zod` `Pino` `node-cron` `Luxon`
+
+**Repo:** [github.com/Vihangpatil37/NGO](https://github.com/Vihangpatil37/NGO) · **License:** MIT
 
 <br/>
 
@@ -91,8 +103,9 @@ Multi-provider LLM layer (Gemini · Groq · Mistral · GLM) refines final rankin
 
 | Project | Description | Stack |
 |---|---|---|
-| 🏎️ **APEX F1** — Engineering Speed | F1-inspired web experience built around high-performance UI and motion design | `React` `Vite` `Tailwind` `Framer Motion` |
-| 🏠 **VastuMulya** — Property Price Estimator | ML-based price estimation for the Indian real-estate market | `React` `Python` `XGBoost` `Node.js` `MongoDB` |
+| 🧠 **[SCPR](https://github.com/Vihangpatil37/SCPR)** — Smart Career Path Recommendation System | Explainable, three-stage AI pipeline (deterministic eligibility/trait engine → multi-LLM re-ranking) guiding Indian Class 10 & 12 students to a career path; being written up for IEEE submission | `React` `NestJS` `Django` `MongoDB Atlas` `Scikit-learn` `XGBoost` `SHAP` `Gemini` `Groq` `Mistral` `GLM` |
+| 🏎️ **[APEX F1](https://github.com/Vihangpatil37/APEX)** — Engineering Speed | F1-inspired web experience built around high-performance UI and motion design | `React` `Vite` `Tailwind` `Framer Motion` |
+| 📚 **[Comic](https://github.com/Vihangpatil37/Comic-)** — Data Science, Illustrated | A data science education comic series, structured page-by-page to teach concepts like data preprocessing through story and character | `Markdown` `Gemini (image gen)` |
 
 </div>
 
@@ -104,46 +117,28 @@ Multi-provider LLM layer (Gemini · Groq · Mistral · GLM) refines final rankin
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,dart" />
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter" />
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django" />
 
-**Data & ML**
+**Data, ML & Real-Time**
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,python,pytorch" />
+<img src="https://skillicons.dev/icons?i=mongodb,python,pytorch,socketio" />
 
 **Tools & Infra**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,bash,postman,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,bash,postman,figma,vercel" />
 
 </div>
 
+**Backend & real-time toolkit:** Express 5 · Socket.IO · JWT/bcrypt auth · Zod validation · Pino logging · node-cron
 **AI/ML toolkit:** Scikit-learn · XGBoost · Pandas · SHAP (Explainable AI) · Multi-LLM orchestration (Gemini, Groq, Mistral, GLM) · Agentic AI design
-
-<br/>
-
-## 📈 Learning Trajectory
-
-```mermaid
-graph LR
-    A[Full-Stack Dev] --> B[Backend Engineering]
-    B --> C[System Design]
-    C --> D[ML Pipelines]
-    D --> E[LLM Orchestration]
-    E --> F[Agentic AI Systems]
-    style A fill:#0f172a,stroke:#38BDF8,color:#fff
-    style B fill:#0f172a,stroke:#38BDF8,color:#fff
-    style C fill:#0f172a,stroke:#38BDF8,color:#fff
-    style D fill:#0f172a,stroke:#38BDF8,color:#fff
-    style E fill:#0f172a,stroke:#38BDF8,color:#fff
-    style F fill:#1e3a8a,stroke:#38BDF8,color:#fff
-```
 
 <br/>
 
@@ -169,12 +164,13 @@ graph LR
 <div align="center">
 
 <a href="https://github.com/Vihangpatil37"><img src="https://img.shields.io/badge/GitHub-Vihangpatil37-black?style=for-the-badge&logo=github"/></a>
+<a href="https://protfoliov.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Liquid%20Glass%20Cosmos-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="mailto:vihangpatil37@gmail.com"><img src="https://img.shields.io/badge/Email-vihangpatil37%40gmail.com-red?style=for-the-badge&logo=gmail"/></a>
 
 <br/><br/>
 
 ### 💭 Build. Break. Learn. Improve. Repeat.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:0f172a,100:1e3a8a&height=110&section=footer" width="100%"/>
 
 </div>
